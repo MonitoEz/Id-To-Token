@@ -1,19 +1,19 @@
+# ID TO TOKEN FETCHER
+
 Bonjours/Bonsoir
 
-Se logiciel appartient a nos developer de FcTools
+# Se logiciel appartient a nos developeur de FcTools
 
 Comment utiliser le logiciel ?
 
-1) Installer Python
+# Installer Python sur python .org
 
 2) Installer tout les module
 
 Comment installer les modules ?
 
-Lancer module.bat
+Lancer **requirements.bat**
 
-Ensuite le logiciel vous installeras les module requis et vas lacnez automatiquement le tools
-
-TOUT ET OPPEN SOURCE !
+une fois lancer il va installer les pre-requis et lancer le panel du logiciel comme cela: https://cdn.discordapp.com/attachments/1044567285085507584/1046454212944478248/image.png
 
 bonne utilisation a tous avec se logiciel je ne suis pas responssable de vos acte !
